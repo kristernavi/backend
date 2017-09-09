@@ -12,6 +12,7 @@
 6. Run in the terminal <b>php artisan migrate</b> this command will automatically create an table that the app needs.
 7. To check the routes and the methods run <b>php artisan route:list</b>
 8. To run the test run <b>phpunit</b> if it doesnt work <b>vendor/bin/phpunit</b>
+9. To run the app you can run the command <b>php artisan serve</b> or you can use <b>valet</b> or <b>vagrant</b> you can see it in <a href="https://laravel.com/docs/5.5">Laravel Documentation</a>
 
 
 <h4>To populate the database</h4>
